@@ -1,2 +1,5 @@
 usuario= Andrea
 contraseña= 12345
+
+nobre completo 
+yuli andrea quinayas carvaja
